@@ -1,0 +1,16 @@
+name: AutoHopper
+version: 1.0
+main: main.java.autohopper.autohopper
+description: Automatically transfers items from a player's inventory to a hopper when they stand on it.
+author: Warthawg
+api-version: 1.17
+
+commands:
+  autohopper:
+    description: Enable or disable the AutoHopper plugin.
+    usage: /autohopper <enable|disable>
+    permission: autohopper.use
+
+permissions:
+  autohopper.use:
+    description: Allows the player to use the /autohopper command and enable/disable the AutoHopper plugin.
