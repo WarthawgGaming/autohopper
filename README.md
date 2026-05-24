@@ -1,3 +1,5 @@
+![AutoHopper Banner](images/autohopper.png)
+
 # AutoHopper
 
 AutoHopper is a Minecraft Java Edition plugin designed to make inventory management faster and easier for survival servers.
