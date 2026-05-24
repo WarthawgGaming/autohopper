@@ -27,6 +27,14 @@ Players can quickly dump items into a hopper without opening menus or manually m
 
 ---
 
+## Documentation
+
+- [Installation Guide](docs/installation.md)
+- [Troubleshooting Guide](docs/troubleshooting.md)
+- [Usage Guide](docs/usage-guide.md)
+
+---
+
 ## How It Works
 
 1. Hold a stick.
