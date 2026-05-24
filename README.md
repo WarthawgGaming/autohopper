@@ -17,6 +17,16 @@ Players can quickly dump items into a hopper without opening menus or manually m
 
 ---
 
+## Quick Start
+
+1. Install the plugin.
+2. Restart the server.
+3. Give players the `autohopper.use` permission.
+4. Right-click a hopper with a stick.
+5. Sneak on the hopper to transfer inventory items.
+
+---
+
 ## How It Works
 
 1. Hold a stick.
@@ -43,6 +53,12 @@ Armor and hotbar items are ignored.
 |---|---|
 | `autohopper.use` | Allows the player to use the `/autohopper` command and enable or disable AutoHopper. |
 
+### LuckPerms Example
+
+```text
+/lp group default permission set autohopper.use true
+```
+
 ---
 
 ## Installation
@@ -64,13 +80,37 @@ Armor and hotbar items are ignored.
 
 ---
 
-## Planned Features
+## Configuration
 
-- Configurable permissions
-- Hopper ownership limits
-- Admin management commands
-- Configurable item filters
-- Expanded automation options
+Configuration options and customization settings are planned for a future update.
+
+---
+
+## Roadmap
+
+- [x] Basic hopper transfer system
+- [x] Enable / disable commands
+- [x] Permission support
+- [ ] Configurable settings
+- [ ] Hopper ownership limits
+- [ ] Admin management commands
+- [ ] Configurable item filters
+- [ ] Expanded automation features
+- [ ] Sound and particle feedback
+
+---
+
+## Releases
+
+### v1.0.0
+
+Initial release.
+
+Features included:
+- Hopper registration
+- Automatic inventory transfer
+- Enable / disable commands
+- Permission support
 
 ---
 
@@ -86,6 +126,6 @@ For support, updates, and future projects:
 
 ## License
 
-This project is currently released for community use.
+This project is licensed under the MIT License.
 
-Further licensing details may be added later.
+See the LICENSE file for more information.
