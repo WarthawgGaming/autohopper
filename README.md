@@ -56,9 +56,11 @@ Armor and hotbar items are ignored.
 
 ## Compatibility
 
-- Minecraft Java Edition
-- API Version: 1.17
-- Paper / Spigot based servers
+| Platform | Supported Versions |
+|---|---|
+| Minecraft Java Edition | 1.17+ |
+| Server Software | Paper / Spigot |
+| API Version | 1.17 |
 
 ---
 
