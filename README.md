@@ -28,6 +28,23 @@ Armor and hotbar items are ignored.
 
 ---
 
+## Commands
+
+| Command | Description | Permission |
+|---|---|---|
+| `/autohopper enable` | Enables AutoHopper for the player | `autohopper.use` |
+| `/autohopper disable` | Disables AutoHopper for the player | `autohopper.use` |
+
+---
+
+## Permissions
+
+| Permission | Description |
+|---|---|
+| `autohopper.use` | Allows the player to use the `/autohopper` command and enable or disable AutoHopper. |
+
+---
+
 ## Installation
 
 1. Download the latest release from the Releases section.
@@ -40,6 +57,7 @@ Armor and hotbar items are ignored.
 ## Compatibility
 
 - Minecraft Java Edition
+- API Version: 1.17
 - Paper / Spigot based servers
 
 ---
